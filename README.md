@@ -14,7 +14,7 @@
 <li><p>✨ With a self-driven approach to learning, I actively seek out information and take ownership of my projects. I thrive on solving problems and genuinely enjoy the process, believing that this problem-solving mindset is essential for a successful developer.</p></li>
 </ul>
 
-
+<br><br>
 <h2 align="center"> 📞 Contact Me 📞</h2>
 <br>
 <p align="center">
