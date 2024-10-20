@@ -4,17 +4,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Jenny!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" width=100% /></a>
  
 </div>
+<br><br><br>
+---
+<h2>⭐️ About Me ⭐️</h2>
+<br>
 <ul class="about__list">
-<li><p>👋🏻 Hi there, I’m a passionate developer who loves coding.</p></li>
+<li><p>👋🏻 Hi there, I’m a <b>passionate developer</b> who loves coding</p></li>
 
-<li><p>💻 Proficient in HTML, CSS, JavaScript, React, Adobe Creative Suite, with a keen interest in interactive web design, also with backend experience in MySQL, Java, and Node.js.</p></li>
+<li><p>💻 Proficient in <b>HTML, CSS, JavaScript, React, Adobe Creative Suite, with a keen interest in interactive web design</b>, also with backend experience in MySQL, Java, and Node.js</p></li>
 
-<li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.</p></li>
+<li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a <b>good work-life balance, prioritizing time with my family</b></p></li>
 
-<li><p>✨ Driven by a passion for problem-solving, I take ownership of my learning and projects, striving to be a successful developer.</p></li>
+<li><p>✨ Driven by a passion for problem-solving, I take <b>ownership of my learning and projects</b>, striving to be a successful developer</p></li>
 </ul>
 
-<br><br>
+<br><br><br>
+---
 <h2 align="center"> 📞 Contact Me 📞</h2>
 <br>
 <p align="center">
@@ -23,6 +28,7 @@
   <a href="https://devjennykim.netlify.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&color=%23027efb"></a>
 </p>
 <br><br><br>
+---
 <h2 align="center">🔨 Tech Stack 🔨</h2>
 <h4 align = "center">Front-End</h4>
 <p align="center">
