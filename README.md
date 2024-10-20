@@ -5,15 +5,13 @@
  
 </div>
 <ul>
-<li>👋🏻 Hi there, I’m a passionate developer who loves coding.</li>
+<li>👋🏻 Hi there, I’m a passionate developer who loves coding.<br></li>
 
-<li>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.</li>
+<li>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.<br></li>
 
-<li>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.</li>
+<li>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.<br></li>
 
 <li>✨ With a self-driven approach to learning, I actively seek out information and take ownership of my projects. I thrive on solving problems and genuinely enjoy the process, believing that this problem-solving mindset is essential for a successful developer.</li>
-
-
 </ul>
 
 
