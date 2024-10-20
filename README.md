@@ -1,6 +1,6 @@
 <div display="flex" aligin-item="center" width=100%>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23BCB4E6&title_bg=%23585858&icon=github.svg&icon_color=%23E7E7E7&title=Jenny%27s+GitHub&edge_flat=false" float="right"/></a>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecc6f1,100:77c0f9&height=200&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width=100% />
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23BCB4E6&title_bg=%23585858&icon=github.svg&icon_color=%23E7E7E7&title=Jenny%27s+GitHub&edge_flat=false" float="right"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecc6f1,100:77c0f9&height=200&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width=100% /></a>
 </div>
 
  
@@ -29,9 +29,9 @@
 </p>
 <br><br><br>
 
-<h2 align="center">🔨 Tech Stack 🔨</h2>
-<h4 align = "center">Front-End</h4>
-<p align="center">
+<h2 >🔨 Tech Stack 🔨</h2>
+<h4 >Front-End</h4>
+<p >
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto&color=%23E34F26">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&color=%231572B6">
 <img alt="Static Badge" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&color=%23CC6699">
@@ -41,8 +41,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&color=%2361DAFB">
 </p>
-<h4 align = "center">Back-End</h4>
-<p align="center">
+<h4 >Back-End</h4>
+<p >
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&color=%235FA04E">
 <img alt="Static Badge" src="https://img.shields.io/badge/Axios%20-%20white?style=for-the-badge&logo=Axios&logoColor=white&logoSize=auto&color=%235A29E4">
@@ -52,8 +52,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache-%20white?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=%23D22128">
 <br>
 </p>
-<h4 align = "center">Dev-Ops</h4>
-<p align="center">
+<h4 >Dev-Ops</h4>
+<p >
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%20white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=%23F05032">
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logoSize=auto&color=%23007FFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-%20black?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&color=%23FCC624">
