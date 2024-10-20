@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ecc6f1,100:77c0f9&height=300&section=header&text=Welcome%20to%20Jenny's%20GitHub&fontSize=60&fontColor=black&stroke=dcc6f3&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ecc6f1,100:77c0f9&height=300&section=header&text=Welcome%20to%20Jenny's%20GitHub&fontSize=60&fontColor=black&stroke=dcc6f3&animation=blink .6s" />
 
 <br>
 
