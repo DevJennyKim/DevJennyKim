@@ -1,5 +1,5 @@
 <div display="flex" aligin-item="center" width=100%>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ecc6f1,100:77c0f9&height=300&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ecc6f1,100:77c0f9&height=300&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width=100%/>
 </div>
 <br>
 
