@@ -20,6 +20,8 @@
   <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto&color=%23F7DF1E">
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&color=%2361DAFB">
+
 
 </p>
 <h4 align = "center">Back-End</h4>
