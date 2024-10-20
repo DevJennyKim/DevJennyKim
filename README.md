@@ -1,11 +1,3 @@
-<style>
- .about__list{
-  display:flex;
-  flex-direction:colum;
-  gap:3px;
- }
-</style>
-
 <div display="flex" aligin-item="center" width=100%>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23BCB4E6&title_bg=%23585858&icon=github.svg&icon_color=%23E7E7E7&title=Jenny%27s+GitHub&edge_flat=false" float="right"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecc6f1,100:77c0f9&height=200&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width=100% />
@@ -13,13 +5,13 @@
  
 </div>
 <ul class="about__list">
-<li>👋🏻 Hi there, I’m a passionate developer who loves coding.<br></li>
+<li><p>👋🏻 Hi there, I’m a passionate developer who loves coding.</p></li>
 
-<li>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.<br></li>
+<li><p>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.</p></li>
 
-<li>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.<br></li>
+<li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.</p></li>
 
-<li>✨ With a self-driven approach to learning, I actively seek out information and take ownership of my projects. I thrive on solving problems and genuinely enjoy the process, believing that this problem-solving mindset is essential for a successful developer.</li>
+<li><p>✨ With a self-driven approach to learning, I actively seek out information and take ownership of my projects. I thrive on solving problems and genuinely enjoy the process, believing that this problem-solving mindset is essential for a successful developer.</p></li>
 </ul>
 
 
