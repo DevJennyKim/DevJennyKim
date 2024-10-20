@@ -6,7 +6,7 @@
 <br>
 <div display="flex" aligin-item="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23C9C0F8&title_bg=%231658D4&icon=github.svg&icon_color=%23E7E7E7&title=GITGUB&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23BCB4E6&title_bg=%23585858&icon=github.svg&icon_color=%23E7E7E7&title=Jenny%27s+GitHub&edge_flat=false"/></a>
   
 </div>
 
