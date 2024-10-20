@@ -1,5 +1,6 @@
+<div display="flex" aligin-item="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ecc6f1,100:77c0f9&height=300&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" />
-
+</div>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23C9C0F8&title_bg=%231658D4&icon=github.svg&icon_color=%23E7E7E7&title=GITGUB&edge_flat=false)](https://hits.seeyoufarm.com)
