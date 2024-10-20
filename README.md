@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/devjennykim/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logoSize=auto&color=%230A66C2"></a>
   <a mailto="jennykim.itjobs@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335"></a>
   <a href="https://devjennykim.netlify.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&color=%23027efb"></a>
-
 </div>
 
 
 
 ## 🔨 Once I've used 🔨
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 
