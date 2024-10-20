@@ -17,12 +17,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto&color=%23E34F26">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&color=%231572B6">
 <img alt="Static Badge" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&color=%23CC6699">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&color=%237952B3">
   <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto&color=%23F7DF1E">
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&color=%2361DAFB">
-
-
 </p>
 <h4 align = "center">Back-End</h4>
 <p align="center">
