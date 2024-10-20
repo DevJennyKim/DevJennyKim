@@ -8,7 +8,7 @@
   <a mailto="jennykim.itjobs@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335"></a>
   <a href="https://devjennykim.netlify.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&color=%23027efb"></a>
 </p>
-<br><br>
+<br><br><br>
 <h2 align="center">🔨 Tech Stack 🔨</h2>
 <h4 align = "center">Front-End</h4>
 <p align="center">
