@@ -7,11 +7,11 @@
 <ul class="about__list">
 <li><p>👋🏻 Hi there, I’m a passionate developer who loves coding.</p></li>
 
-<li><p>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.</p></li>
+<li><p>💻 Proficient in HTML, CSS, JavaScript, React, Adobe Creative Suite, with a keen interest in interactive web design, also with backend experience in MySQL, Java, and Node.js.</p></li>
 
 <li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.</p></li>
 
-<li><p>✨ With a self-driven approach to learning, I actively seek out information and take ownership of my projects. I thrive on solving problems and genuinely enjoy the process, believing that this problem-solving mindset is essential for a successful developer.</p></li>
+<li><p>✨ Driven by a passion for problem-solving, I take ownership of my learning and projects, striving to be a successful developer.</p></li>
 </ul>
 
 <br><br>
