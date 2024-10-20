@@ -4,10 +4,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Jenny!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" width=100% /></a>
  
 </div>
+<ul>
+<li>👋🏻 Hi there, I’m Jenny, a passionate developer who loves coding. I invite you to explore my continuously evolving portfolio website.</li>
+
+<li>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.</li>
+
+<li>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a good work-life balance, prioritizing time with my family.</li>
+
+<li>✨ With a self-driven approach to learning, I actively seek out information and take ownership of my projects. I thrive on solving problems and genuinely enjoy the process, believing that this problem-solving mindset is essential for a successful developer.</li>
 
 
-
-
+</ul>
 
 
 <h2 align="center"> 📞 Contact Me 📞</h2>
