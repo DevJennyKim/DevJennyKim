@@ -15,8 +15,15 @@
 <h4 align = "center">Front-End</h4>
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto&color=%23F7DF1E">
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+
+</p>
+<h4 align = "center">Back-End</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
+<h4 align = "center">Dev-Ops</h4>
+<p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logoSize=auto&color=%23007FFF">
 </p>
 
