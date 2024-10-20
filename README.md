@@ -3,7 +3,7 @@
 ---
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-<a src="https://www.linkedin.com/in/devjennykim/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logoSize=auto&color=%230A66C2">
+<a href="https://www.linkedin.com/in/devjennykim/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logoSize=auto&color=%230A66C2">
 </a>
 
 
