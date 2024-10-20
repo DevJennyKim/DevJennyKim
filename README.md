@@ -25,8 +25,14 @@
 </p>
 <h4 align = "center">Back-End</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
- <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&color=%235FA04E">
+<img alt="Static Badge" src="https://img.shields.io/badge/Axios%20-%20white?style=for-the-badge&logo=Axios&logoColor=white&logoSize=auto&color=%235A29E4">
+<br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%20white?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&color=%234479A1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-%20white?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&color=%23009639">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Apache-%20white?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=%23D22128">
+<br>
 </p>
 <h4 align = "center">Dev-Ops</h4>
 <p align="center">
