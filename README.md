@@ -3,7 +3,8 @@
 ---
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-LinkedIn-%230A66C2?style=flat&label=LinkedIn&labelColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdevjennykim%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logoSize=auto&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdevjennykim%2F">
+
 
 
 </div>
