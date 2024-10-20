@@ -1,6 +1,6 @@
 <div display="flex" aligin-item="center" width=100%>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ecc6f1,100:77c0f9&height=300&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width=100%/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=100&lines=%F0%9F%A5%B0+Welcome+to+my+GitHub+%F0%9F%A5%B0;%F0%9F%91%8B%F0%9F%8F%BB+Please+visit+my+portfolio+web;to+demo+the+projects!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=100&lines=%F0%9F%A5%B0+Welcome+to+my+GitHub+%F0%9F%A5%B0;%F0%9F%91%8B%F0%9F%8F%BB+Please+visit+my+portfolio+web;to+demo+the+projects!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" width=100% /></a>
 </div>
 <br>
 
