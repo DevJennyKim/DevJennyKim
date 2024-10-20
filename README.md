@@ -36,6 +36,17 @@
 </p>
 <h4 align = "center">Dev-Ops</h4>
 <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-%20white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=%23F05032">
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logoSize=auto&color=%23007FFF">
+<img alt="Static Badge" src="https://img.shields.io/badge/linux-%20black?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&color=%23FCC624">
+<img alt="Static Badge" src="https://img.shields.io/badge/slack-%20white?style=for-the-badge&logo=slack&logoColor=white&logoSize=auto&color=%234A154B">
+<br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/evernote-%20white?style=for-the-badge&logo=evernote&logoColor=white&logoSize=auto&color=%2300A82D">
+<img alt="Static Badge" src="https://img.shields.io/badge/notion-%20white?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=zoom&logoColor=white&logoSize=auto&color=%230B5CFF">
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/office365-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23D24726">
+<img alt="Static Badge" src="https://img.shields.io/badge/Onedrive-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%230072C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/Teams-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%236264A7">
 </p>
 
