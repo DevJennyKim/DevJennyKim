@@ -10,10 +10,8 @@
 <br>
 <ul class="about__list">
 <li><p>👋🏻 Hi there, I’m a <b>passionate developer</b> who loves coding</p></li>
-
-<li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a <b>good work-life balance, prioritizing time with my family</b></p></li>
-
 <li><p>✨ Driven by a passion for problem-solving, I take <b>ownership of my learning and projects</b>, striving to be a successful developer</p></li>
+<li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a <b>good work-life balance, prioritizing time with my family</b></p></li>
 </ul>
 
 <br><br><br>
