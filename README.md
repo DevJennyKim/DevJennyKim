@@ -1,6 +1,6 @@
 <div display="flex" aligin-item="center" width=100%>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecc6f1,100:77c0f9&height=200&section=header&text=Jenny's%20GitHub&fontSize=80&fontColor=black&stroke=dcc6f3&animation=twinkling" width=100% />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=100&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Jenny!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" width=100% /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Jenny!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" width=100% /></a>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJennyKim&count_bg=%23C9C0F8&title_bg=%231658D4&icon=github.svg&icon_color=%23E7E7E7&title=GITGUB&edge_flat=false)](https://hits.seeyoufarm.com)
