@@ -5,7 +5,7 @@
  
 </div>
 <ul>
-<li>👋🏻 Hi there, I’m Jenny, a passionate developer who loves coding. I invite you to explore my continuously evolving portfolio website.</li>
+<li>👋🏻 Hi there, I’m a passionate developer who loves coding.</li>
 
 <li>💻 I’m skilled in HTML, CSS, JavaScript, React, and Adobe Creative Suite, with a keen interest in interactive web design. I also have experience with backend technologies like MySQL, Java, and Node.js.</li>
 
