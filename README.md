@@ -8,11 +8,11 @@
 ---
 <h2 align="center">⭐️ About Me ⭐️</h2>
 <br>
-<ul align="center">
-<li><p>👋🏻 Hi there, I’m a <b>passionate developer</b> who loves coding</p></li>
-<li><p>✨ Driven by a passion for problem-solving, I take <b>ownership of my learning and projects</b>, striving to be a successful developer</p></li>
-<li><p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a <b>good work-life balance, prioritizing time with my family</b></p></li>
-</ul>
+<div align="center">
+<p>👋🏻 Hi there, I’m a <b>passionate developer</b> who loves coding</p></li>
+<p>✨ Driven by a passion for problem-solving, I take <b>ownership of my learning and projects</b>, striving to be a successful developer</p></li>
+<p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a <b>good work-life balance, prioritizing time with my family</b></p></li>
+</div>
 
 <br><br><br>
 
