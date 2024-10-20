@@ -4,13 +4,13 @@
 </div>
 
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Jenny!" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=0C84F7&center=true&multiline=true&width=435&height=30&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+I+am+Jenny!" alt="Typing SVG"width=100%/></a>
  
 </div>
 <br><br><br>
-<h2 align="center">⭐️ About Me ⭐️</h2>
+<h2 >⭐️ About Me ⭐️</h2>
 <br>
-<div align="center">
+<div>
 <p>👋🏻 Hi there, I’m a <b>passionate developer</b> who loves coding</p>
  <br>
 <p>✨ Driven by a passion for problem-solving, I take <b>ownership of my learning and projects</b>, striving to be a successful developer</p>
@@ -20,9 +20,9 @@
 
 <br><br><br>
 
-<h2 align="center"> 📞 Contact Me 📞</h2>
+<h2 > 📞 Contact Me 📞</h2>
 <br>
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/devjennykim/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logoSize=auto&color=%230A66C2"></a>
   <a mailto="jennykim.itjobs@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335"></a>
   <a href="https://devjennykim.netlify.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&color=%23027efb"></a>
