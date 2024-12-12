@@ -37,21 +37,33 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&color=%231572B6">
 <img alt="Static Badge" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&color=%23CC6699">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&color=%237952B3">
-  <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto&color=%23F7DF1E">
+   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&color=%2361DAFB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+   <br>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ 
 </p>
 <h4 >Back-End</h4>
 <p >
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&color=%235FA04E">
 <img alt="Static Badge" src="https://img.shields.io/badge/Axios%20-%20white?style=for-the-badge&logo=Axios&logoColor=white&logoSize=auto&color=%235A29E4">
+ <br>
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%20white?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&color=%234479A1">
-  <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-%20white?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&color=%23009639">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-%20white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23009639">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Apache-%20white?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=%23D22128">
+ <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache-%20white?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=%23D22128">
 <br>
 </p>
@@ -68,5 +80,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/office365-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23D24726">
 <img alt="Static Badge" src="https://img.shields.io/badge/Onedrive-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%230072C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/Teams-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%236264A7">
+ <br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/fastapi?style=for-the-badge&logo=fastapi&logoColor=white&logoSize=auto&color=#009688">
 </p>
 
