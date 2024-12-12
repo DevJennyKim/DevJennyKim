@@ -17,6 +17,8 @@
 <p>❤️ I love cats and enjoy cooking and baking. I’m passionate about fitness and aim to maintain a <b>good work-life balance, prioritizing time with my family</b></p><br>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjennykim)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 
 <h2 > 📞 Contact Me 📞</h2>
