@@ -83,8 +83,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Onedrive-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%230072C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/Teams-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%236264A7">
  <br>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
