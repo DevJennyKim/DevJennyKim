@@ -42,6 +42,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white&logoSize=auto&color=%2361DAFB">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 <h4 >Back-End</h4>
 <p >
