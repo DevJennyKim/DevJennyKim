@@ -56,7 +56,7 @@
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 
 <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%20white?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&color=%234479A1">
@@ -82,9 +82,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Onedrive-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%230072C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/Teams-white?style=for-the-badge&logoColor=white&logoSize=auto&color=%236264A7">
  <br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+ <br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Amazon-Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon-RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </p>
 
