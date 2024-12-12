@@ -88,8 +88,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
  <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-suqre&logo=amazons3&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Route53-8C4FFF?style=flat-suqre&logo=amazonroute53&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-suqre&logo=amazonrds&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </p>
 
