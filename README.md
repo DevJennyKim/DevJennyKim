@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&color=%235FA04E">
 <img alt="Static Badge" src="https://img.shields.io/badge/Axios%20-%20white?style=for-the-badge&logo=Axios&logoColor=white&logoSize=auto&color=%235A29E4">
- <br>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
@@ -62,8 +61,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-
- <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-%20white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23009639">
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache-%20white?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=%23D22128">
 <br>
