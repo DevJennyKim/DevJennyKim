@@ -42,7 +42,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=jest&logoColor=white&label=Jest&labelColor=%23C21325&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=Jest&logoColor=C21325">
  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
    <br>
    <img alt="Static Badge" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
