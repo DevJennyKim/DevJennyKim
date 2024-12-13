@@ -86,7 +86,7 @@
 
   <br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=white&logoSize=auto&color=0052CC">
+
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logoSize=auto&color=%23007FFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-%20black?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&color=%23FCC624">
   
@@ -101,6 +101,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 
 <br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=white&logoSize=auto&color=0052CC">
 <img alt="Static Badge" src="https://img.shields.io/badge/notion-%20white?style=for-the-badge&logo=notion&logoColor=white&logoSize=auto&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/slack-%20white?style=for-the-badge&logo=slack&logoColor=white&logoSize=auto&color=%234A154B">
   <img alt="Static Badge" src="https://img.shields.io/badge/evernote-%20white?style=for-the-badge&logo=evernote&logoColor=white&logoSize=auto&color=%2300A82D">
