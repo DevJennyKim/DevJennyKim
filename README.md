@@ -79,7 +79,7 @@
 <h4 >Dev-Ops</h4>
 <p >
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%20white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=%23F05032">
- <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logoSize=auto&color=%23white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logoSize=auto&color=%%23F37626">
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logoSize=auto&color=%23007FFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-%20black?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&color=%23FCC624">
 <img alt="Static Badge" src="https://img.shields.io/badge/slack-%20white?style=for-the-badge&logo=slack&logoColor=white&logoSize=auto&color=%234A154B">
