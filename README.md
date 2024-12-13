@@ -64,14 +64,11 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Axios%20-%20white?style=for-the-badge&logo=Axios&logoColor=white&logoSize=auto&color=%235A29E4">
 
-  
-
 <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%20white?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&color=%234479A1">
      <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-%20white?style=for-the-badge&logoColor=white&logoSize=auto&color=%23009639">
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache-%20white?style=for-the-badge&logo=Apache&logoColor=white&logoSize=auto&color=%23D22128">
 <br>
