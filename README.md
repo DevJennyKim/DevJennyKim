@@ -88,12 +88,12 @@
 
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Azure-white?style=for-the-badge&logoSize=auto&color=%23007FFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/linux-%20black?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&color=%23FCC624">
-  
- <br>
+
  <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/linux-%20black?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&color=%23FCC624">
+
  <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
