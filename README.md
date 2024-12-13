@@ -53,12 +53,13 @@
 </p>
 <h4 >Back-End</h4>
 <p >
-  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+ 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/-C%23-452170?logo=Csharp&style=for-the-badge&logoColor=white">
  <img src="https://img.shields.io/badge/-.Net-512BD4?logo=dotnet&style=for-the-badge&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&color=%235FA04E">
