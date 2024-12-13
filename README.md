@@ -37,16 +37,18 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto&color=%231572B6">
 <img alt="Static Badge" src="https://img.shields.io/badge/SASS-white?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&color=%23CC6699">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&color=%237952B3">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=auto&color=%23F7DF1E">
    <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-white?style=for-the-badge&logo=jquery&logoColor=white&logoSize=auto&color=%230769AD">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
    <br>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+ 
  
 </p>
 <h4 >Back-End</h4>
