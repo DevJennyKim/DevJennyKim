@@ -45,7 +45,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=white&color=%233178C6">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
- <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+
    <br>
 
  
@@ -53,7 +53,10 @@
 </p>
 <h4 >Back-End</h4>
 <p >
+  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/C#-4D53E8?style=for-the-badge&logo=csharp&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js%20-%20white?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=auto&color=%235FA04E">
 <img alt="Static Badge" src="https://img.shields.io/badge/Axios%20-%20white?style=for-the-badge&logo=Axios&logoColor=white&logoSize=auto&color=%235A29E4">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
