@@ -80,6 +80,8 @@
 <p >
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%20white?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&color=%23F05032">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-048DC?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-603B74?style=for-the-badge&logo=&logoColor=white">
 
 
   <br>
